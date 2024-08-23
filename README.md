@@ -25,6 +25,6 @@ A error message does not break your opearting system, though, we should not be a
 
 A crash just means that program has stopped running unexpectedely. 
 
-Always you can check out the resource at https://nostarch.com/automatestuff2/ to see a list of common Python error messages and their meanings. 
+Always you can check out the resource at https://www.tutorialsteacher.com/python/error-types-in-python to see a list of common Python error messages and their meanings. 
 
-[Website Link](https://nostarch.com/automatestuff2/)
+[Website Link](https://www.tutorialsteacher.com/python/error-types-in-python)
